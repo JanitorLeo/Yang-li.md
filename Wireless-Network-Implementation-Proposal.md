@@ -81,6 +81,6 @@ MIT
 network infrastructure. Please feel free to contact us at yangli1@student.mitt.ca for any clarifications.  
 
 **Submitted by**:  
-[Your Name]  
-[Your Title]  
-[Your Company Name]  
+Yang.Li  
+Supplier  
+MIT  
