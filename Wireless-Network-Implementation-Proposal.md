@@ -6,7 +6,7 @@ MITT is pleased to submit this proposal for implementing a secure, reliable, and
 ---
 
 ## Understanding of Needs  
-Your organization requires a modern wireless network solution that ensures complete coverage, robust security, and seamless integration with your existing infrastructure. Our proposed solution addresses these needs while incorporating the latest wireless standards to future-proof your network.
+MITT requires a modern wireless network solution that ensures complete coverage, robust security, and seamless integration with your existing infrastructure. Our proposed solution addresses these needs while incorporating the latest wireless standards to future-proof your network.
 
 ---
 
@@ -52,7 +52,7 @@ Your organization requires a modern wireless network solution that ensures compl
 ---
 
 ## Company Information and Team  
-[Your Company Name] specializes in designing and implementing wireless solutions for organizations of all sizes. Our team comprises experienced network engineers certified in leading technologies, including Cisco, Aruba, and Juniper.  
+MITT specializes in designing and implementing wireless solutions for organizations of all sizes. Our team comprises experienced network engineers certified in leading technologies, including Cisco, Aruba, and Juniper.  
 
 ### Notable Achievements:  
 - Deployed a campus-wide wireless solution for [Client A], supporting over 1,000 simultaneous users.  
@@ -61,11 +61,11 @@ Your organization requires a modern wireless network solution that ensures compl
 ---
 
 ## Case Studies and References  
-1. **[Client Name]**  
+1. **Felix**  
    - **Project**: Office wireless network implementation.  
    - **Contact**: [Felix, Project Manager, Felix@student.mitt.ca, +1 204 666 666]  
 
-2. **[Client Name]**  
+2. **Victor**  
    - **Project**: Large venue wireless deployment.  
    - **Contact**: [Victor, Vice Project Manager, victor@student.mitt.ca, +1 204 888 888]  
 
